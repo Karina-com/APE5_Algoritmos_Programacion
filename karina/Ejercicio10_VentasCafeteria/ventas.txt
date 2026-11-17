@@ -1,0 +1,6 @@
+Capuchino,2.50
+Espresso,1.75
+Sanduche de pollo,4.25
+Torta de chocolate,3.00
+Jugo de mora,dos
+Chocolate caliente,2.00
