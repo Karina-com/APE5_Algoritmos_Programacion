@@ -1,0 +1,6 @@
+Mateo,85
+Camila,92
+Joaquin,78
+Valeria,abc
+Sofia,64
+Daniel,88
