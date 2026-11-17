@@ -1,0 +1,3 @@
+ALERTA: falla en el modulo de oxigeno.
+Tripulacion evacuar al sector B.
+Enviar ayuda a la orbita 3.
