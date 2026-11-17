@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,45:111111,80:1F1F1F,100:FACC15&height=290&section=header&text=APE%205%20%C2%B7%20LA%20BATICUEVA%20DE%20LOS%20FICHEROS&fontSize=44&fontColor=FACC15&stroke=000000&strokeWidth=2&animation=fadeIn&fontAlignY=38&desc=LEER%20%C2%B7%20ESCRIBIR%20%C2%B7%20PROCESAR%20%C2%B7%20JAVA%20java.io&descSize=18&descAlignY=60" width="100%" alt="Encabezado: APE 5, la Baticueva de los ficheros">
+<img src="./assets/gotham-banner.svg" width="100%" alt="Gotham Files: APE 5, ficheros en Java">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2400&pause=1100&color=FACC15&center=true&vCenter=true&width=920&height=60&lines=%F0%9F%A6%87+La+se%C3%B1al+est%C3%A1+en+el+cielo%3A+10+casos+por+resolver.;Cada+pista+vive+en+un+.txt.+Cada+.txt+cuenta+una+historia.;readLine()+hasta+que+devuelva+null.+Ni+una+l%C3%ADnea+menos.;FileWriter(archivo%2C+true)+%2F%2F+la+evidencia+no+se+borra.;5+detectives.+5+ramas.+5+pull+requests.+0+conflictos." width="100%" alt="Frases animadas">
 
@@ -26,8 +26,10 @@
 **En Gotham, lo que no se guarda en disco, no existe.**
 
 [🦇 Caso](#-el-caso) ·
+[📡 Batseñal](#-transmisión-de-la-batseñal) ·
 [🦸 Batfamilia](#-la-batfamilia) ·
 [🌿 Ramas](#-el-protocolo-de-la-baticueva--ramas-y-pull-requests) ·
+[🤵 Bitácora](#-bitácora-de-alfred) ·
 [🗺️ Mapa](#️-mapa-de-gotham) ·
 [📁 Expedientes](#-distrito-1--lectura-de-archivos) ·
 [🧰 Batcinturón](#-batcinturón--clases-y-métodos) ·
@@ -67,15 +69,25 @@ flowchart LR
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:FACC15,100:000000&height=3&section=header" width="100%" alt="">
 
+## 📡 Transmisión de la Batseñal
+
+> **📻 Comisionado Gordon → Baticueva**
+>
+> *«Diez casos llegaron a la comisaría esta noche y todos dejan rastro en archivos de texto: pistas de un robo, un mensaje de emergencia, registros de un museo, puntajes, ventas… Necesito que alguien los lea, los ordene y no pierda ni una línea. La ciudad confía en ustedes.»*
+>
+> — *Transmisión recibida. La Batfamilia toma el caso.* 🦇
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:FACC15,100:000000&height=3&section=header" width="100%" alt="">
+
 ## 🦸 La Batfamilia
 
-| | Detective | Rango en la Baticueva | Rama | GitHub | Casos | Lo que resolvió |
+| | Detective | Alter ego en Gotham | Rama | GitHub | Casos | Lo que resolvió |
 | :---: | :--- | :--- | :---: | :---: | :---: | :--- |
-| 🔍 | **Paredes Acosta Dereck Shair** | Detective de las pistas ocultas | `dereck` | [@dereckflux](https://github.com/dereckflux) | 01 · 02 | Lectura línea por línea con `readLine()` y lectura carácter por carácter con `read()` |
-| 🏛️ | **Ashanga Yumbo Brishy Anahy** | Curadora del Museo de Gotham | `brishy` | [@brishy769-coder](https://github.com/brishy769-coder) | 03 · 04 | Clasificación por categorías con `split()` y cálculo de total y máximo |
-| ⚔️ | **Calderón Carvajal Fher Dorian** | Caballero del Backend | `Dorian` | [@Doros-ia](https://github.com/Doros-ia) | 05 · 06 | Menús con escritura en modo *append*, búsqueda de libros y mensajes cifrados |
-| 🛡️ | **Casillas Ochoa Antony Sebastián** | Guardián de la Validación | `antony` | [@antonycasillas777-cloud](https://github.com/antonycasillas777-cloud) | 07 · 08 | Validación de registros, promedios, filtros y control de `NumberFormatException` |
-| 📜 | **Sánchez Bastidas Karina Paola** | Oráculo y guardiana del repositorio | `karina` | [@Karina-com](https://github.com/Karina-com) | 09 · 10 | Diario con validación de archivo vacío, reporte de ventas y filtro por precio. Creó el repositorio y unió las ramas |
+| 🔍 | **Paredes Acosta Dereck Shair** | 🐦 **Robin** · el detective de las pistas | `dereck` | [@dereckflux](https://github.com/dereckflux) | 01 · 02 | Lectura línea por línea con `readLine()` y lectura carácter por carácter con `read()` |
+| 🏛️ | **Ashanga Yumbo Brishy Anahy** | 🦇 **Batgirl** · curadora del Museo de Gotham | `brishy` | [@brishy769-coder](https://github.com/brishy769-coder) | 03 · 04 | Clasificación por categorías con `split()` y cálculo de total y máximo |
+| ⚔️ | **Calderón Carvajal Fher Dorian** | 🌃 **Nightwing** · caballero del backend | `Dorian` | [@Doros-ia](https://github.com/Doros-ia) | 05 · 06 | Menús con escritura en modo *append*, búsqueda de libros y mensajes cifrados |
+| 🛡️ | **Casillas Ochoa Antony Sebastián** | 🛡️ **Red Hood** · guardián de la validación | `antony` | [@antonycasillas777-cloud](https://github.com/antonycasillas777-cloud) | 07 · 08 | Validación de registros, promedios, filtros y control de `NumberFormatException` |
+| 📜 | **Sánchez Bastidas Karina Paola** | 📡 **Oráculo** · guardiana del repositorio | `karina` | [@Karina-com](https://github.com/Karina-com) | 09 · 10 | Diario con validación de archivo vacío, reporte de ventas y filtro por precio. Creó el repositorio y unió las ramas |
 
 <div align="center">
 
@@ -161,6 +173,20 @@ git push -u origin dorian
 ```
 
 </details>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:FACC15,100:000000&height=3&section=header" width="100%" alt="">
+
+## 🤵 Bitácora de Alfred
+
+| Hora en Gotham | Registro |
+| :---: | :--- |
+| 🌆 Anochecer | 📡 **Oráculo** (Karina) abre la Baticueva: crea el repositorio y agrega a la Batfamilia como colaboradores. |
+| 🌃 Primera ronda | Cada detective enciende su propia rama: `dereck`, `brishy`, `Dorian`, `antony` y `karina`. |
+| 🌙 Medianoche | Se suben los 10 casos: un commit por archivo, cada uno firmado por su detective. |
+| 🦇 Patrullaje | Cada rama pide entrar a `main` con su Pull Request: #1, #2, #3, #4 y #5. |
+| 🌅 Amanecer | **Oráculo** une los 5 PR sin un solo conflicto. **Nightwing** (Dorian) deja este expediente y el banner de Gotham. |
+
+> *«Señor, las ramas no se borraron. Quedan como evidencia, por si el comisionado pregunta quién hizo qué.»* — Alfred
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:FACC15,100:000000&height=3&section=header" width="100%" alt="">
 
@@ -702,6 +728,6 @@ java CompetenciaVideojuegos
 
 <sub>Proyecto académico sin fines comerciales · Universidad Técnica de Ambato · Batman y sus personajes pertenecen a DC Comics.</sub>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FACC15,30:1F1F1F,100:000000&height=130&section=footer&animation=twinkling" width="100%" alt="">
+<img src="./assets/gotham-footer.svg" width="100%" alt="Mision completada">
 
 </div>
